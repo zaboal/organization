@@ -1,6 +1,9 @@
+# Бот в Telegram для управления личным кабинетом в организации
 [submodule "bot-telegram"]
 	path = bot-telegram
 	url = https://github.com/zaboal/bot-telegram_profile
+
+# Схема баз данных организации
 [submodule "database-schema"]
 	path = database-schema
 	url = https://github.com/zaboal/database-schema_organization
