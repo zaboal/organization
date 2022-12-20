@@ -1,5 +1,5 @@
-[submodule "bot-telegram_profile"]
-	path = bot-telegram_profile
+[submodule "bot-telegram"]
+	path = bot-telegram
 	url = https://github.com/zaboal/bot-telegram_profile
 [submodule "database-schema"]
 	path = database-schema

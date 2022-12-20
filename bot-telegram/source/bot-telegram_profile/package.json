@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "grammy": "latest",
+        "sqlite3": "latest"
+    },
+    "devDependencies": {
+        "ts-node": "latest"
+    },
+    "scripts": {
+        "start": "ts-node bot-telegram_profile.ts"
+    }
+}
