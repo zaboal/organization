@@ -1,0 +1,132 @@
+BEGIN:VCARD
+
+SOURCE:
+KIND:group
+XML:
+
+FN;LANGUAGE=en;ALTID=1:Zazhigin's IT-studio
+N;LANGUAGE=en;ALTID=1:Zazhigin's IT-studio
+NICHNAME;LANGUAGE=en;ALTID=1:The IT-studio
+FN;LANGUAGE=ru;ALTID=1:Информационно-технологическая студия Зажигина Б. А.
+N;LANGUAGE=ru;ALTID=1:Информационно-технологическая студия Зажигина Б. А.
+NICKNAME;LANGUAGE=ru;ALTID=1:ИТ-студия Зажигина
+PHOTO:
+ANNIVERSARY:
+BDAY:
+GENDER:
+
+ADR:
+
+TEL:
+EMAIL:support@zaboal.ru
+IMPP:
+LANG:ru
+
+TZ:
+GEO:
+
+TITLE:
+ROLE:
+ORG;LANGUAGE=en;ALTID=1:Zazhigin's IT-studio
+ORG;LANGUAGE=ru;ALTID=1:ИТ-студия Зажигина
+LOGO:
+MEMBER:urn:uuid:zaboal
+MEMBER:urn:uuid:hisumi
+RELATED:
+
+CATEGORIES;LANGUAGE=en;ALTID=1:IT,Studio
+NOTE;LANGUAGE=en;ALTID=1:
+CATEGORIES;LANGUAGE=ru;ALTID=1:ИТ,Студия
+NOTE;LANGUAGE=ru;ALTID=1:
+PRODID:
+REV:20220930
+SOUND:
+UID;VALUE=text:zaboal.it-studio
+CLIENTPIDMAP:
+URL:https://site.zaboal.ru
+VERSION:4.0
+
+KEY:
+
+FBURL:
+CALADRURI:
+CALURI:
+
+END:VCARD
+
+
+BEGIN:VCARD
+KIND:individual
+FN;LANGUAGE=en;ALTID=1:Zazhigin Bogdan Aleskeevich
+N;LANGUAGE=en;ALTID=1:Zazhigin;Bogdan;Aleskeevich
+NICHNAME;LANGUAGE=en;ALTID=1:Bogsha
+FN;LANGUAGE=ru;ALTID=1:Зажигин Богдан Алексеевич
+N;LANGUAGE=ru;ALTID=1:Зажигин;Богдан;Алексеевич
+NICKNAME;LANGUAGE=ru;ALTID=1:Богша
+BDAY;VALUE=date-complete:20070115
+GENDER:M
+ADR;LANGUAGE=en;ALTID=1;TYPE=home;GEO="geo:59.83, 30.32";TZ=+3000:Apt 171;;14e Pulkovskoye HWY;Saint-Petersburg;Leningradskaya oblast.;196158;Russian Federation
+ADR;LANGUAGE=ru;ALTID=1;TYPE=home;GEO="geo:59.83, 30.32";TZ=+3000:кв. 171;;Пулковское шоссе, д. 14Е;г. Санкт-Петербург;Ленинградская обл.;196158;Российская Федерация
+ADR;LANGUAGE=en;ALTID=2;TYPE=home;GEO="geo:0, 0";TZ=+3000:Apt 47;;27 Zoi Kosmedemianskoy;Murmansk;Murmanskaya oblast;183008;Russian Federation
+ADR;LANGUAGE=ru;ALTID=2;TYPE=home;GEO="geo:0, 0";TZ=+3000:кв. 47;;ул. Зои Космедемьянской, д. 27;г. Мурманск;Мурманская обл.;183008;Российская Федерация
+TEL;VALUE=uri;PREF=1;TYPE=home,text,voice,cell:tel:+7-992-195-51-27
+TEL;VALUE=uri;PREF=2;TYPE=home,text,voice,cell:tel:+7-999-274-86-47
+EMAIL;PREF=1;TYPE=work:founder@zaboal.ru
+EMAIL;PREF=1;TYPE=home:za.boal@vk.com
+EMAIL;PREF=2;TYPE=home:za.boal@ya.ru
+IMPP:https://t.me/zaboal
+IMPP:https://vk.me/zaboal
+LANG;PREF=1:ru
+LANG;PREF=2:en
+TZ;VALUE=utc-offset:+03
+GEO:geo:59.8, 30.3
+TITLE;LANGUAGE=en;ALTID=1:Founder
+ROLE;LANGUAGE=en;ALTID=1:Manager and designer
+ORG;LANGUAGE=en;ALTID=1:Zazhigin's IT-studio
+TITLE;LANGUAGE=ru;ALTID=1:Основатель
+ROLE;LANGUAGE=ru;ALTID=1:Управляющий и дизайнер
+ORG;LANGUAGE=ru;ALTID=1:Информационно-технологическая студия Зажигина
+RELATED;TYPE=co-worker,friend:https://t.me/hisumia
+CATEGORIES;LANGUAGE=en;ALTID=1:Scholar,Manager
+NOTE;LANGUAGE=en;ALTID=1:Usally online from 4 PM to 9 PM by GMT+3 and on weekends from 8 AM to 9 PM.
+CATEGORIES;LANGUAGE=ru;ALTID=1:Школьник,Управляющий
+NOTE;LANGUAGE=ru;ALTID=1:Онлайн с 16 до 21 по будням и с 8 до 21 по выходным.
+REV:20220929
+UID;VALUE=text:zaboal
+URL;TYPE=work:https://site.zaboal.ru
+URL;TYPE=home:https://vk.com/zaboal
+VERSION:4.0
+KEY:data:application/pgp-keys;base64,mN4EY1zHKyMBAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQxAAMHAP9fv/SYqpOM5zm44CL7r+9AVj9uajRy/CpRTAzp2uI7fgACAgD8COKooOZRR9S9YxYDDhbRnIXJfwqcomcSK5arvOp+j8gAAQEBAIAAAAAAAAAAAAAAAAAAAAFQ/ooYkpdhVMWc/Bk6zPWzAP46s9xSIu8/KGBDF4Y4JFFDB/B+64XkrYyWhepBh0Kl9gD+KE8Dt+Z3UHFl19jbf1ulqdfgpC9WUsQpU6ZG9cIomXUAAQG0O1phemhpZ2luIEJvZ2RhbiBBbGVrc2VldmljaCAoemEuYm9hbEB5YS5ydSkgPHphLmJvYWxAeWEucnU+iJAEEyMMADgWIQRIcMbRFzsXGjHSa7okYWPNQ/VV7QUCY1zkjAIbAwULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAKCRAkYWPNQ/VV7VnyAP0YApBhIqdOtKFMCFLh4IOoxQrUulVZmQO7ouEvS/AKNQD+NEWghMsrYpX/nEP8rdzhUIQhtxmnjHvMwJVhaN95iHU==8NdK
+END:VCARD
+
+BEGIN:VCARD
+KIND:individual
+FN;LANGUAGE=en;ALTID=1:Hisumi (incognito)
+N;LANGUAGE=en;ALTID=1:Hisumi (incognito)
+NICHNAME;LANGUAGE=en;ALTID=1:Hisumi
+FN;LANGUAGE=ru;ALTID=1:Хисуми (инкогнито)
+N;LANGUAGE=ru;ALTID=1:Хисуми (инкогнито)
+NICKNAME;LANGUAGE=ru;ALTID=1:Хисуми
+BDAY;VALUE=date-complete:20070115
+GENDER:M
+ADR;LANGUAGE=en;ALTID=1;TYPE=home:;;;;;;Russian Federation
+ADR;LANGUAGE=ru;ALTID=1;TYPE=home:;;;;;;Российская Федерация
+EMAIL;TYPE=work:hisumi@zaboal.ru
+EMAIL;TYPE=home:hisumi@megu.one
+IMPP:https://t.me/hisumia
+LANG;PREF=1:ru
+LANG;PREF=2:en
+LANG;PREF=3:de
+TITLE;LANGUAGE=en;ALTID=1:System administrator
+ROLE;LANGUAGE=en;ALTID=1:Infrastructure structuring
+ORG;LANGUAGE=en;ALTID=1:Zazhigin's IT-studio
+TITLE;LANGUAGE=ru;ALTID=1:Системный администратор
+ROLE;LANGUAGE=ru;ALTID=1:Создание инфраструктуры
+ORG;LANGUAGE=ru;ALTID=1:Информационно-технологическая студия Зажигина
+RELATED;TYPE=co-worker,friend:https://t.me/zaboal
+CATEGORIES;LANGUAGE=en;ALTID=1:System administrator
+CATEGORIES;LANGUAGE=ru;ALTID=1:Системный администратор
+REV:20220930
+UID;VALUE=text:hisumi
+VERSION:4.0
+END:VCARD
