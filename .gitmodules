@@ -3,7 +3,7 @@
 	path = bot-telegram
 	url = https://github.com/zaboal/bot-telegram_profile.git
 
-# Схема баз данных организации
+# Схема корпоративной базы данных организации, персонал, подразеделения и т.д.
 [submodule "database-schema"]
 	path = database-schema
 	url = https://github.com/zaboal/database-schema_organization.git
