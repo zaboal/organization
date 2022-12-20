@@ -1,0 +1,21 @@
+# Файл сборки Docker контейнера проекта
+
+# Установка образа и рабочей директории
+FROM node:latest
+WORKDIR /usr/src/app
+
+
+# Установка зависимостей
+COPY bot-telegram_profile/package.json .
+RUN npm install
+
+# Добавление оставшихся файлов проекта
+COPY bot-telegram_profile .
+
+
+# Объявление переменных окружения
+ARG BOT_TOKEN
+
+
+# Запуск контейнера
+CMD npm start
